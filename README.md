@@ -7,4 +7,3 @@
 5. Diseño de aplicaciones web
 6. Abraham Alejandro Sosa Correa
 7. Markdown sirve para la interpretacion de un codigo propio y como lo quieres dar a conocer
-git remote add Stage
