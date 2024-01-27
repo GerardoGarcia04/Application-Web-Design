@@ -1,4 +1,4 @@
-# Application-Web-Design<>
+# Application-Web-Design
 
 1. Gerardo Iván García Leon
 2.  2972747
