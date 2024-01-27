@@ -7,3 +7,6 @@
 5. Diseño de aplicaciones web
 6. Cristopher Gerardo Gaytán Díaz
 7. Markdown sirve para la interpretacion de un codigo propio y como lo quieres dar a conocer
+
+
+# Etiquetado que ofrece Markdown
