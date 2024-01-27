@@ -56,7 +56,7 @@ Puedes añadir tantas líneas y párrafos como quieras.
 
 
 
-# Etiquetado que ofrece Markdown
+# Comandos utilizados en gihub para:
 
 
 a)	Comprobar el estado de un repositorio local.
